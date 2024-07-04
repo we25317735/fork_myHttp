@@ -8,3 +8,6 @@ const server = http.createServer((request, resopnse) => {
 server.listen(9000, () => {
   console.log("伺服器運行中 http://localhost:9000");
 });
+
+
+console.log("哈嘍, 你好阿 同學!");
